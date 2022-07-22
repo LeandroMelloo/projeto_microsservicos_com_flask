@@ -13,3 +13,9 @@ django-admin startproject pontos_turisticos .
 4° Criando o banco de dados
 python manage.py makemigrations
 python manage.py migrate
+
+5° Criando um Superusuario no Django
+python manage.py createsuperuser
+
+6° Criando uma app no Django
+python manage.py startapp pontos_turisticos
