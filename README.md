@@ -1,4 +1,4 @@
-# apis_restful_com_django_restframework
+# Apis Restful com Django Restframework
 Criando poderosas API's RESTful com Django Rest Framework
 
 1° Criar o ambiente virtual (virtualenv)
