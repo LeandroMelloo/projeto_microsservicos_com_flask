@@ -18,4 +18,5 @@ Criando poderosas API's RESTful com Django Rest Framework
 - python manage.py createsuperuser
 
 6° Criando uma app no Django
-- python manage.py startapp pontos_turisticos
+- python manage.py startapp core
+- python manage.py startapp atracoes
